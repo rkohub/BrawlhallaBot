@@ -20,3 +20,5 @@ List of goals
 * Have the bot consistantly move itself back onto the stage in response to an attack
 * Finally have the bot beat one of the games AI's
 * Then maybe make it learn how to play better.
+
+I know that there will be errors in the program, as with any program, i will work to fix them as they come up.
