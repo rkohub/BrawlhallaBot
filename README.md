@@ -1,5 +1,5 @@
 # BrawlhallaBot
-Trying_To_Make_A_Script_Play_The_Game_Brawlhalla
+Trying To Make A Script Play The Game Brawlhalla
 
 This is just a fun project that I started to work on earlier, but then I decided that I should keep it on github for organizational and protfolio reasons. So if it looks like the project started half done, thats because it is... Well not nearly half, but some ways ion.
 
